@@ -1,5 +1,7 @@
 # ros-industrial-tf-publisher
-Small example to subscribe to and broadcast tf using python
+Small example to subscribe to and broadcast tf using Python. The node will broadcast a tf 1.5m in from of the head of the robot (`box` frame)
+
+<img src="https://github.com/SaxionMechatronics/ros-industrial-tf-publisher/blob/main/pub_tf/images/without.png" width="400"> <img src="https://github.com/SaxionMechatronics/ros-industrial-tf-publisher/blob/main/pub_tf/images/with.png" width="400">
 
 # Requirements
 This code needs to run together with the urdf sim tutorial, which can be installed with
